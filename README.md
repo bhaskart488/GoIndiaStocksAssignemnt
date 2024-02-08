@@ -6,6 +6,9 @@
 
 #### Link to Resume: https://drive.google.com/file/d/1lUi__mHkTT67oii5unbci6IUpsGL7Lad/view?usp=sharing
 
+![image](https://github.com/bhaskart488/GoIndiaStocksAssignment/assets/73813983/d8f7f4a8-ccb6-465a-b3d1-be4cd4ff046a)
+
+
 Of late there has been a sudden interest in the term “Green Hydrogen”. As an investor you spend a major
 part of your time to find such trends and invest in it earlier than everyone else understands it. So you are
 required to write a python program to figure out the buzz around green hydrogen and what all are the
@@ -19,6 +22,13 @@ stocks that could benefit due sudden popularity of green hydrogen
 1. Store the result in a pandas dataframe also include News date
 2. Use pandas.DataFrame.apply to add an extra column in this table called sentiment score. For sentiment analysis use a pre-trained sentiment analysis model on huggingface.
 3. Use appropriate hugging face NER (Named Entity Recognition) model to identify all organization name in news headline
+
+![image](https://github.com/bhaskart488/GoIndiaStocksAssignment/assets/73813983/666a59e0-fd33-4876-ab63-000b8c42afa8)
+
+
+![image](https://github.com/bhaskart488/GoIndiaStocksAssignment/assets/73813983/85969cee-dc28-4d13-89ad-ed69e10f0f1c)
+
+
    
 ## Final Deliverables:
 Code has to be written in Google Collab
